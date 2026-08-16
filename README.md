@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Archived upstream fork/reference. Do not use this repository for new work.**
+>
+> Upstream: [oven-sh/bun](https://github.com/oven-sh/bun). The maintained `pc-style` delta is **none**; the only new commit is this archive notice.
+> Upstream history and license/provenance notices are preserved. The repository-detected license is [Other](LICENSE.md).
+> Use upstream for current code, releases, issues, and security updates.
+
 <p align="center">
   <a href="https://bun.com"><img src="https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161" alt="Logo" height=170></a>
 </p>
